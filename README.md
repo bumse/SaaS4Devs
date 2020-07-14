@@ -917,6 +917,7 @@ Keeping that in consideration, here are the best books for devs trying to make i
 - [Badass: making users awesome](https://www.amazon.com/Badass-Making-Awesome-Kathy-Sierra-ebook/dp/B00VAUIM18/ref=sr_1_1?dchild=1&keywords=badass+making+users+awesome&qid=1590686375&s=audible&sr=8-1) by Kathy Sierra
 - [On Writing Well](https://www.amazon.com/Writing-Well-30th-Anniversary-Nonfiction-ebook/dp/B0090RVGW0/ref=sr_1_1?dchild=1&keywords=on+writing+well&qid=1590686395&sr=8-1) by William Zinsser
 - [Value SaaS basecamp guide](https://www.amazon.com/Value-SaaS-Basecamp-Guide-founders-ebook/dp/B07WD57WVF/ref=sr_1_1?dchild=1&keywords=value+saas+bootcamp&qid=1590686417&sr=8-1) by Thiyagarajan M
+- [Built to Sell: Creating a Business That Can Thrive Without You](https://www.amazon.com/Built-to-Sell-John-Warrillow-audiobook/dp/B0050J3IPA/) by John Warrillow
 
 ---
 
